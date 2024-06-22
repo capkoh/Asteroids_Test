@@ -1,0 +1,21 @@
+{
+    "name": "Game.Collisions.Implementation",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0baf017709ff0b74996d9e50cd162953",
+        "GUID:0f46f43028f9ebb4d8315c0b09d25e54",
+        "GUID:5f74936342e67314d87dd09e11765676",
+        "GUID:ccfaedb1648bd434bb8d8346eaf507fa",
+        "GUID:8bcfb7084e3cd2d4f8beb4c228a769d2",
+        "GUID:9d385a5c94d3e4c439cdc3f5fe207513"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
